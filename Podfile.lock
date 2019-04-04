@@ -1,0 +1,16 @@
+PODS:
+  - SwiftRichString (2.0.5)
+
+DEPENDENCIES:
+  - SwiftRichString
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SwiftRichString
+
+SPEC CHECKSUMS:
+  SwiftRichString: a3ebe72b13db2e1b917cdbb6b44d817254a7ff73
+
+PODFILE CHECKSUM: e8646893c2a841efbb746230fc8e417d413898da
+
+COCOAPODS: 1.6.1
